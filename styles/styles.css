@@ -1,0 +1,44 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+header{
+    height: 10vh;
+    display: flex;
+    flex-direction: column;
+}
+p{
+    margin: auto;
+    margin-left: 0%;
+}
+footer{
+    height: 10vh;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+}
+nav{
+    height: 10vh;
+    background-color: green;
+    display: flex;
+    justify-content: space-between;
+}
+main{
+    height: 70vh;
+}
+#Inicio{
+    margin-left: 2%;
+    color: aliceblue;
+}
+#Horario{
+    margin-left: -90%;
+    color: aliceblue;
+}
+#Titulo{
+    color: green;
+}
+#PiePagina{
+    color: aliceblue;
+    margin: auto;
+}
