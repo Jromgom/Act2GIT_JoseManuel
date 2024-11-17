@@ -22,20 +22,19 @@ nav{
     height: 10vh;
     background-color: green;
     display: flex;
-    justify-content: space-between;
+}
+nav p{
+    margin: 2vw;
+    color: aliceblue;
+}
+a{
+    color: aliceblue;
+    text-decoration: none;
 }
 main{
     height: 70vh;
     justify-content: center;
     display: flex;
-}
-#Inicio{
-    margin-left: 2%;
-    color: aliceblue;
-}
-#Horario{
-    margin-left: -90%;
-    color: aliceblue;
 }
 #Titulo{
     color: green;
